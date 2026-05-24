@@ -1,0 +1,12 @@
+# Arduino
+*.elf
+*.hex
+*.bin
+*.map
+
+# macOS
+.DS_Store
+
+# VS Code / PlatformIO
+.vscode/
+.pio/
