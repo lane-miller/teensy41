@@ -10,3 +10,6 @@
 # VS Code / PlatformIO
 .vscode/
 .pio/
+
+# Python
+.venv/
